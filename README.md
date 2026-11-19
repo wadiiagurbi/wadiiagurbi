@@ -106,11 +106,52 @@ A premium Next.js admin template with a glass UI, ready to plug into your SaaS.
 
 ---
 
+## 🎓 Academy series
+
+> Full learning platforms I built **from scratch**: real apps with accounts, progress tracking, quizzes and a final project.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🐍 [Python Academy](https://github.com/wadiiagurbi/python-academy)
+Zero to advanced Python, web dev and data science. Ends with a **visual Data Pipeline Builder** and Chart.js charts.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🐘 [PHP & Symfony Academy](https://github.com/wadiiagurbi/Php-MySQL-Symfony-Academy)
+**140 lessons** across PHP, MySQL and Symfony. Ends with a real **Task Manager** app built step by step.
+
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🦀 [Rust Academy](https://github.com/wadiiagurbi/rust-academy)
+Learn Rust with Ferris: an Axum + SQLx API, a Vue SPA and a tested final project.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧰 Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,symfony,mysql,js,ts,nextjs,react,tailwind,nodejs,cs,dotnet,python,rust,docker,git,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,symfony,mysql,js,ts,vue,vuetify,nextjs,react,tailwind,nodejs,fastapi,cs,dotnet,python,rust,docker,git,vscode&perline=8" />
   </a>
 </p>
 
