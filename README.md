@@ -93,12 +93,31 @@ A premium Next.js admin template with a glass UI, ready to plug into your SaaS.
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 🍕 [TableSuite](https://github.com/wadiiagurbi/tablesuite)
+**My first SaaS: websites for restaurants**
+
+Restaurants sign up and get their own site with a menu, gallery and reservations, plus an admin dashboard and email alerts. Multi-tenant, with tenants kept apart by Row Level Security.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+`🌍 open source`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🗣️ [Fluent](https://github.com/wadiiagurbi/fluent)
-**My personal English coach (PWA)**: corrects my writing with a red pen, gives a CEFR grade and works offline on my phone.
+**My personal English coach (PWA)**
+
+Corrects my writing with a red pen, gives a CEFR grade and works offline on my phone.
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+`🌍 open source`
 
 </td>
 </tr>
@@ -151,7 +170,7 @@ Learn Rust with Ferris: an Axum + SQLx API, a Vue SPA and a tested final project
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,symfony,mysql,js,ts,vue,vuetify,nextjs,react,tailwind,nodejs,fastapi,cs,dotnet,python,rust,docker,git,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,symfony,mysql,js,ts,vue,vuetify,nextjs,react,tailwind,nodejs,supabase,fastapi,cs,dotnet,python,rust,docker,git,vscode&perline=8" />
   </a>
 </p>
 
