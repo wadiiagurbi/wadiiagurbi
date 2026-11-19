@@ -95,7 +95,7 @@ A premium Next.js admin template with a glass UI, ready to plug into your SaaS.
 <tr>
 <td colspan="2" valign="top">
 
-### 🗣️ Fluent
+### 🗣️ [Fluent](https://github.com/wadiiagurbi/fluent)
 **My personal English coach (PWA)**: corrects my writing with a red pen, gives a CEFR grade and works offline on my phone.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
